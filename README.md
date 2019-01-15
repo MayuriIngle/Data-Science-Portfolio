@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 Repository of data science projects completed by me for self learning purposes. Presented in the form of R markdown files (published at RPubs).
 
 The R portfolio on RPubs is located [here](http://rpubs.com/mayu2019).
