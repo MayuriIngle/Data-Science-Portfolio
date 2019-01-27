@@ -11,7 +11,7 @@ The R portfolio on RPubs is located [here](http://rpubs.com/mayu2019).
        - [Worldwide food & feed production and distribution, 1961-2013 : Exploratory Data Analysis](http://rpubs.com/mayu2019/FAO) : Detailed exploratory data analysis of World's food and feed production dataset avaliable on kaggle.
 
      - #### Python Projects : 
-       - [Black Friday Sales : Exploratory Analysis ]() : Detailed exploratory data analysis of Black Friday Sales dataset using  using Pandas and Seaborn library.
+       - [Black Friday Sales : Exploratory Analysis ](https://github.com/MayuriIngle/Data-Science-Portfolio/blob/master/Black%20Friday%20Sales.ipynb) : Detailed exploratory data analysis of Black Friday Sales dataset using  using Pandas and Seaborn library.
        
  - ### Machine Learning :
  
