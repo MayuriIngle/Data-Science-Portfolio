@@ -15,7 +15,7 @@ The R portfolio on RPubs is located [here](http://rpubs.com/mayu2019).
        
  - ### Machine Learning :
  
-  - ### Individual Algorithms: Mini Projects with algorithm details.
+  - #### Individual Algorithms: Mini Projects with algorithm details.
   
     - #### R Projects :
       - [Customer Segmentation using K-Means](http://rpubs.com/mayu2019/K-Means) : Analyzing dataset containing information of wholesale distributor's client annual spending in monetary units (m.u.) on diverse product categories . And using K-Means alogorithm to seperate or group customers based on their spending habits.
